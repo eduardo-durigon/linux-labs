@@ -1,4 +1,6 @@
-# Linux Home Labs 2026
+# Linux Home Labs
+
+(This repository is currently on hold while I focus on building foundational IT support and Windows administration skills. I'll return to these labs as my learning roadmap progresses)
 
 This repository documents a collection of hands-on Linux labs completed throughout 2026.
 
